@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
@@ -79,3 +80,6 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+=======
+# tindog-bootstrap
+>>>>>>> f3342f6a9aea517a39c26a3456aaaa09a7101c4b
